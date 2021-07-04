@@ -1,0 +1,42 @@
+
+body {
+    font-size: 15px;
+}
+
+h1 {
+    font-family: 'Big Shoulders Display', cursive;
+    margin-left: 20%;
+}
+
+p {
+    margin: 50px;
+    text-align: center;
+}
+
+
+.row {
+    color: white;
+    font-family: 'Lexend Deca', sans-serif;
+}
+
+
+.card-button {
+    width: 28%;
+    height: 30%;
+    margin: 10%;
+    background-color: white;
+    color: white;
+}
+
+
+#sedan-card {
+    background-color: hsl(31, 77%, 52%);
+}
+
+#suv-card {
+    background-color: hsl(184, 100%, 22%);
+}
+
+#luxury-card {
+    background-color: hsl(179, 100%, 13%);
+}
