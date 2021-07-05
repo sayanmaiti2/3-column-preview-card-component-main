@@ -5,28 +5,33 @@ body {
 
 h1 {
     font-family: 'Big Shoulders Display', cursive;
-    margin-left: 20%;
+    margin: 10%;
+
 }
 
 p {
-    margin: 50px;
+    margin: 10px;
+    padding: 5%;
     text-align: center;
+    margin-top: 20px;
+    margin-bottom: 20px;
 }
 
+.container {
+    padding: 10% 5%;
+}
+
+.car-card {
+    width: 50px;
+    height: 460px;
+    border-radius: 2%;
+}
 
 .row {
     color: white;
     font-family: 'Lexend Deca', sans-serif;
 }
 
-
-.card-button {
-    width: 28%;
-    height: 30%;
-    margin: 10%;
-    background-color: white;
-    color: white;
-}
 
 
 #sedan-card {
